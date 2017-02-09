@@ -9,8 +9,6 @@ Need a nackpillow right now!
 
 I add a new branch
 
-<<<<<<< HEAD
-Add another branch again
-=======
-Another branch is added too.
->>>>>>> feature1
+
+Add another branch too.
+
